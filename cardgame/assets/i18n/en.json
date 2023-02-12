@@ -1,0 +1,10 @@
+{
+  "start-game-with-timer": "Start Game with Timer",
+  "start-game-without-timer": "Start Game without Timer",
+  "click-more-information": "Click the card for more information",
+  "click-continue": "Click here to continue",
+  "try-this-answer": "Try this answer",
+  "successfully-finished": "You have successfully finished the game and answered all question correctly. You can now start a new game.",
+  "time-run-out": "The time has run out before you could finish the game. You can now start a new game.",
+  "game-over": "Game over"
+}
