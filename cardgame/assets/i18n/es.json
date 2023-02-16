@@ -1,0 +1,11 @@
+{
+  "start-game-with-timer": "Iniciar juego con temporizador",
+  "start-game-without-timer": "Iniciar el juego sin temporizador",
+  "click-more-information": "Correcto. Haga clic en la tarjeta para obtener más información",
+  "click-continue": "Pulse aquí para continuar",
+  "try-this-answer": "Prueba esta respuesta",
+  "successfully-finished": "Has terminado el juego con éxito y has respondido correctamente a todas las preguntas. Ahora puedes empezar una nueva partida.",
+  "time-run-out": "El tiempo se ha agotado antes de que pudieras terminar la partida. Ahora puedes empezar una nueva partida.",
+  "game-over": "Fin del juego",
+  "wrong-answer": "Respuesta incorrecta"
+}
