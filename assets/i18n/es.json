@@ -7,5 +7,7 @@
   "successfully-finished": "Has terminado el juego con éxito y has respondido correctamente a todas las preguntas. Ahora puedes empezar una nueva partida.",
   "time-run-out": "El tiempo se ha agotado antes de que pudieras terminar la partida. Ahora puedes empezar una nueva partida.",
   "game-over": "Fin del juego",
-  "wrong-answer": "Respuesta incorrecta"
+  "wrong-answer": "Respuesta incorrecta",
+  "wrong-answer-try-again": "Respuesta incorrecta. Intentar otra vez",
+  "points": "Puntos"
 }

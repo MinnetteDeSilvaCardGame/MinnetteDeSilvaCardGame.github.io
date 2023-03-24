@@ -7,5 +7,7 @@
   "successfully-finished": "You have successfully finished the game and answered all question correctly. You can now start a new game.",
   "time-run-out": "The time has run out before you could finish the game. You can now start a new game.",
   "game-over": "Game over",
-  "wrong-answer": "Wrong Answer"
+  "wrong-answer": "Wrong Answer",
+  "wrong-answer-try-again": "Wrong Answer. Try Again",
+  "points": "Points"
 }
